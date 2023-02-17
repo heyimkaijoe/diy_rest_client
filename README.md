@@ -1,5 +1,4 @@
 # DIY REST Client
-- Vanilla JS
-- Bootstrap 5
 - Axios
+- Bootstrap 5
 - CodeMirror
