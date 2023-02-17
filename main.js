@@ -51,8 +51,6 @@ form.addEventListener('submit', e => {
     updateResponseDetails(resp)
     updateResponseEditor(resp.data)
     updateResponseHeaders(resp.headers)
-
-    console.log(resp)
   })
 })
 
